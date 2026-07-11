@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment & secrets (never commit credentials)
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+web-build/
+.expo/
+
+# Logs & debug
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Test / coverage
+coverage/
+.nyc_output/
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc caches
+.cache/
+.turbo/
+.vercel/
+*.pem
+*.key
+*.p12
+*.jks
+*.mobileprovision
+
+# Native mobile (generated)
+mobile/ios/
+mobile/android/
