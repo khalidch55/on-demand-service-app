@@ -1,4 +1,4 @@
-# On-Demand Service Application|*Supervised by Sir Ameer Hamza*
+# On-Demand Service Application|*Supervised by Sir Ameer Hamza*|Developed by Khalid Mehmood|
 
 A full-stack on-demand service platform (similar to Urban Company) where customers book services, providers accept and complete jobs, and admins manage the platform.
 
